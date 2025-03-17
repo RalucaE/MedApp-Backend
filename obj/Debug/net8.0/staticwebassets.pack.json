@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CiangauRalucaElena\\Desktop\\MedicalApp\\backend\\MedicalAPI\\wwwroot\\assets\\reports\\Buletin-de-Analize-21492140.pdf",
+      "PackagePath": "staticwebassets\\assets\\reports\\Buletin-de-Analize-21492140.pdf"
+    },
+    {
+      "Id": "C:\\Users\\CiangauRalucaElena\\Desktop\\MedicalApp\\backend\\MedicalAPI\\wwwroot\\assets\\reports\\analize.pdf",
+      "PackagePath": "staticwebassets\\assets\\reports\\analize.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MedicalAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MedicalAPI.props",
+      "PackagePath": "build\\MedicalAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MedicalAPI.props",
+      "PackagePath": "buildMultiTargeting\\MedicalAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MedicalAPI.props",
+      "PackagePath": "buildTransitive\\MedicalAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

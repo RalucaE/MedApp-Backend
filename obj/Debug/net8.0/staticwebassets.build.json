@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "hEgaiOnjPUI40F/55f2p6wq8eK2c+SwDr8V1HhtLAoQ=",
+  "Source": "MedicalAPI",
+  "BasePath": "_content/MedicalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MedicalAPI\\wwwroot",
+      "Source": "MedicalAPI",
+      "ContentRoot": "C:\\Users\\CiangauRalucaElena\\Desktop\\MedApp-Backend\\MedApp-Backend\\wwwroot\\",
+      "BasePath": "_content/MedicalAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
